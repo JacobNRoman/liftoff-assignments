@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-https://github.com/JacobNRoman/liftoff-assignments/P3-Project_Planning/wireframes.jpg
+https://github.com/JacobNRoman/liftoff-assignments/P3-Project_Planning/wireframes.jpg 
 
 ### Project Tracker
 
